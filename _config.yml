@@ -16,8 +16,8 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  home: './index.html'
+  tags: './tags.html'
 
 # Footer
 footer:
@@ -44,7 +44,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
